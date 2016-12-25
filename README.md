@@ -1,4 +1,4 @@
-# Deploy and Windows VM, download and executable and run it
+# Deploy and Windows VM, download and run and executable
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2navalev%2FARMCustomScript%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
