@@ -1,4 +1,4 @@
-﻿$url = "https://go.microsoft.com/fwlink/?LinkId=254279&clcid=0x409"
+﻿$url = "https://zertotestdownload.blob.core.windows.net/test/windowsazurexplatcli.exe"
 $start_time = Get-Date
 $output = "windowsazurexplatcli.exe"
 
